@@ -10,8 +10,9 @@ Languages: C/C++, Python, Java, SQL, Ocaml
 Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 
 ## Work Experience
-### High Sierra Pools  |  Frederick, MD  |  May 2024 – August 2024
-+ Pool Manager								                                
+### High Sierra Pools
+
++ Pool Manager  |  Frederick, MD  |  May 2024 – August 2024								                                
   - Led a team of lifeguards to ensure daily operations and facility cleanliness.
   - Administered first aid and collaborated with EMS and police during emergencies.
   - Managed guest admissions through an online check-in system.
@@ -22,8 +23,8 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Communicated with guests to ensure safety and positive experiences.
     
 ### Kumon
-Urbana, MD  |    August 2017 – April 2018
-+ Volunteer Tutor							                               
+
++ Volunteer Tutor  |  Urbana, MD  |  August 2017 – April 2018							                               
   - Tutored young students on math and reading fundamentals.
   - Graded assignments and organized educational materials.
   - Collaborated with colleagues to develop individualized teaching strategies.
