@@ -27,7 +27,7 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 + Written report including Seaborn visualizations and analysis
 
 
-### C Sorting Algorithms w/ Python Visualization
+### [C Sorting Algorithms w/ Python Visualization](https://04mscott.github.io/Sorting-Functions-C-/)
 + Implemented 8 different sorting algorithms in C
   - Bubble Sort
   - Selection Sort
