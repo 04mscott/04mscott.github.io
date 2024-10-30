@@ -2,19 +2,16 @@
 ---
 
 ## Education
+
 ### University of Maryland - College Park
-
 **Major:** Computer Science, Data Science Track
-
 **Minor:** Statistics
-
 **Relevant Coursework:**
 + CMSC 350 - Algorithms
 + CMSC 320 - Intro to Data Science
 + CMSC 330 - Organization of Programming Languages
 ---
 ## Skills
-
 Languages: C/C++, Python, Java, SQL, Ocaml
 Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 ---
