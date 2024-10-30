@@ -33,7 +33,9 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Quick Sort
   - Count Sort
   - Radix Sort
-+ *(In Progress)* Implemented Python visualizations
++ *(In Progress)* Implemented Python visualizations of each algorithm
+  - Static visualization comparing average time taken to sort a randomized list
+  - Animated visualization of each algorithm sorting a randomized list
 
 ## Work Experience
 ### High Sierra Pools
