@@ -19,7 +19,9 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 ## Projects
 
 ### *(In Progress)* Housing Price Prediction Model
-+ Implemented a linear regression
++ Data analysis of Kaggle Dataset found [HERE](https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset)
++ Implemented a linear regression model to predict housing prices
+
 
 ### C Sorting Algorithms w/ Python Visualization
 + Implemented 8 different sorting algorithms in C
