@@ -1,6 +1,7 @@
 # Computer Science
 
 ## Education
+---
 ### University of Maryland - College Park
 
 **Major:** Computer Science, Data Science Track
