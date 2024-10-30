@@ -18,6 +18,9 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 
 ## Projects
 
+### *(In Progress)* Housing Price Prediction Model
++ Implemented a linear regression
+
 ### C Sorting Algorithms w/ Python Visualization
 + Implemented 8 different sorting algorithms in C
   - Bubble Sort
@@ -28,7 +31,7 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Quick Sort
   - Count Sort
   - Radix Sort
-+ *(Work in Progress)* Implemented Python visualizations
++ *(In Progress)* Implemented Python visualizations
 
 ## Work Experience
 ### High Sierra Pools
