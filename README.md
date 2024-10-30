@@ -1,3 +1,4 @@
+<p align="center">
 # Computer Science
 
 ### Education
@@ -24,3 +25,5 @@ Kumon										                                                   Urbana, MD
     - Tutored young students on math and reading fundamentals.
     - Graded assignments and organized educational materials.
     - Collaborated with colleagues to develop individualized teaching strategies.
+
+</p>
