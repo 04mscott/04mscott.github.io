@@ -1,13 +1,13 @@
 # Computer Science
 
 ## Education
-University of Maryland - College Park
+### University of Maryland - College Park
 
-Major: Computer Science, Data Science Track
+**Major:** Computer Science, Data Science Track
 
-Minor: Statistics
+**Minor:** Statistics
 
-Relevant Coursework: 
+**Relevant Coursework:**
 + CMSC 350 - Algorithms
 + CMSC 320 - Intro to Data Science
 + CMSC 330 - Organization of Programming Languages
