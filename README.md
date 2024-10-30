@@ -18,6 +18,17 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 
 ## Projects
 
+### C Sorting Algorithms w/ Python Visualization
+Implemented 8 different sorting algorithms in C
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Heap Sort
+- Merge Sort
+- Quick Sort
+- Count Sort
+- Radix Sort
+
 ## Work Experience
 ### High Sierra Pools
 + Pool Manager  |  Frederick, MD  |  May 2024 – August 2024								                                
