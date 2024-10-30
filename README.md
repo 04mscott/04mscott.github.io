@@ -10,6 +10,7 @@
 + CMSC 350 - Algorithms
 + CMSC 320 - Intro to Data Science
 + CMSC 330 - Organization of Programming Languages
+
 ---
 ## Skills
 Languages: C/C++, Python, Java, SQL, Ocaml
@@ -39,6 +40,7 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 + *(In Progress)* Implemented Python visualizations of each algorithm
   - Static visualization comparing average time taken to sort a randomized list
   - Animated visualization of each algorithm sorting a randomized list
+  
 ---
 ## Work Experience
 ### High Sierra Pools
