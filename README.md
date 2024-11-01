@@ -40,9 +40,8 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Quick Sort
   - Count Sort
   - Radix Sort
-+ *(In Progress)* Implemented Python visualizations of each algorithm
-  - Static visualization comparing average time taken to sort a randomized list
-  - Animated visualization of each algorithm sorting a randomized list
++ Implemented Python visualizations of each algorithm
+  - Uses benchmark data to plot each algorithm and visualize and compare performance
   
 ---
 ## Work Experience
