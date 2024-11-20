@@ -1,6 +1,8 @@
 # Computer Science
 ---
 
+(LinkedIn)[https://www.linkedin.com/in/mason-t-scott/]
+
 ## Education
 
 ### University of Maryland - College Park
