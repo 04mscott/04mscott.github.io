@@ -1,7 +1,7 @@
 # Computer Science
 ---
 
-(LinkedIn)[https://www.linkedin.com/in/mason-t-scott/]
+[LinkedIn](https://www.linkedin.com/in/mason-t-scott/)
 
 ## Education
 
