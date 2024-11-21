@@ -25,11 +25,11 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 ---
 ## Projects
 
-### *(In Progress)* Housing Price Prediction Model
-+ Data analysis of Kaggle Dataset found [HERE](https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset)
+### [Housing Price Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
++ Data analysis of Kaggle Dataset found [HERE](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 + Implemented a linear regression model to predict housing prices
-  - Using Python libraries Scikit-learn, Pandas, numpy
-+ Written report including Seaborn visualizations and analysis
+  - Using Python libraries Scikit-learn, Pandas, NumPy, Seaborn
++ Achieved R<sup>2</sup> Score of 0.885 using Random Forest Regressor
 
 
 ### [C Sorting Algorithms w/ Python Visualization](https://04mscott.github.io/Sorting-Functions-C-/)
@@ -44,6 +44,17 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Radix Sort
 + Implemented Python visualizations of each algorithm
   - Uses benchmark data to plot each algorithm and visualize and compare performance
+ 
+### [Python Game GUI](https://04mscott.github.io/Game-GUI-Python-/)
++ Implemented a GUI using Python TKinter library
++ Implemented Multiple Game Options:
+  - HangMan
+    - Integrated a graphical keyboard within the GUI, enabling button-based gameplay.
+    - Managed input validation, real-time feedback on guesses, and dynamic updates to display correctly guessed letters.
+  - Sudoku
+    - (*In Progress*) Designed a user-friendly interface for game input
+    - (*In Progress*) Library of easy, medium, and hard boards to choose from
+    - Auto solve feature that implements a backtracking algorithm to solve the sudoku board
   
 ---
 ## Work Experience
