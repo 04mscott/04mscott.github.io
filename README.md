@@ -44,17 +44,7 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Radix Sort
 + Implemented Python visualizations of each algorithm
   - Uses benchmark data to plot each algorithm and visualize and compare performance
- 
-### [Python Game GUI](https://04mscott.github.io/Game-GUI-Python-/)
-+ Implemented a GUI using Python TKinter library
-+ Implemented Multiple Game Options:
-  - HangMan
-    - Integrated a graphical keyboard within the GUI, enabling button-based gameplay.
-    - Managed input validation, real-time feedback on guesses, and dynamic updates to display correctly guessed letters.
-  - Sudoku
-    - (*In Progress*) Designed a user-friendly interface for game input
-    - (*In Progress*) Library of easy, medium, and hard boards to choose from
-    - Auto solve feature that implements a backtracking algorithm to solve the sudoku board
+
   
 ---
 ## Work Experience
