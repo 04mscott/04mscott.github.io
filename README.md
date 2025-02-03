@@ -44,7 +44,24 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Radix Sort
 + Implemented Python visualizations of each algorithm
   - Uses benchmark data to plot each algorithm and visualize and compare performance
-
+ 
+### [Data Analysis Report (CMSC320 Class Project)](https://drive.google.com/file/d/15_r9tltdlhXYWJsdhgzZd8lVAC4TQxj3/view?usp=sharing)
++ Used Following Python Libraries
+  - Pandas
+  - MatPlotLib
+  - Numpy
+  - SciPy Stats
++ Data Cleaning Using
+  - One Hot Encoding
+  - Ordinal encoding
+  - Label Encoding
++ Statistical Testing and Analysis using
+  - Chi Square Test
+  - Correlation Matrix
+  - Covariance
+  - Cross Tabulation
+  - Graphing
++ Code file stored in private GitHub Repo as to not provide answers to future students of the class
   
 ---
 ## Work Experience
