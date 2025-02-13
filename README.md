@@ -27,7 +27,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 ---
 ## Projects
 
-### [Image Classification Neural Network - Mask Wearing](https://04mscott.github.io/Image-Classification-Mask-Wearing/)
+### [Image Classification Neural Network - Mask Wearing](https://04mscott.github.io/Face-Mask-Image-Classification/)
 + Constructed and trained a Convolutional Neural Network using TensorFlow using a functional approach
   - Achieved a Test Accuracy of 0.9924 with a loss of 0.0306
   - Experimented with different hyperparameters and layers within the model
