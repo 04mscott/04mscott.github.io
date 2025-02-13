@@ -27,14 +27,14 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 ---
 ## Projects
 
-### [Image Classification Neural Network - Mask Wearing](https://04mscott.github.io/Face-Mask-Image-Classification/)
+### [Face Mask Image Classification Neural Network](https://04mscott.github.io/Face-Mask-Image-Classification/)
 + Constructed and trained a Convolutional Neural Network using TensorFlow using a functional approach
   - Achieved a Test Accuracy of 0.9924 with a loss of 0.0306
   - Experimented with different hyperparameters and layers within the model
   - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection/data)
 + Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
-### [Housing Price Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
+### [Housing Price Lineaar Regression Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
 + Data analysis of Kaggle Dataset found [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 + Implemented a linear regression model to predict housing prices
   - Using Python libraries Scikit-learn, Pandas, NumPy, Seaborn
