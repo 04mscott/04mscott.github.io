@@ -15,7 +15,7 @@
 + CMSC 451 - Design and Analysis of Computer Algorithms
 + CMSC 421 - Introduction to Artificial Intelligence
 + CMSC 350 - Algorithms
-+ CMSC 320 - Intro to Data Science
++ CMSC 320 - Introduction to Data Science
 + CMSC 330 - Organization of Programming Languages
 
 ---
