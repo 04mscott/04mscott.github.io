@@ -12,15 +12,17 @@
 **Minor:** Statistics
 
 **Relevant Coursework:**
++ CMSC 451 - Design and Analysis of Computer Algorithms
++ CMSC 421 - Introduction to Artificial Intelligence
 + CMSC 350 - Algorithms
 + CMSC 320 - Intro to Data Science
 + CMSC 330 - Organization of Programming Languages
 
 ---
 ## Skills
-Languages: C/C++, Python, Java, SQL, Ocaml
+Languages: Python, C, Java, SQL, Rust, Ocaml
 
-Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
+Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 
 ---
 ## Projects
@@ -30,6 +32,13 @@ Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 + Implemented a linear regression model to predict housing prices
   - Using Python libraries Scikit-learn, Pandas, NumPy, Seaborn
 + Achieved R<sup>2</sup> Score of 0.885 using Random Forest Regressor
+
+### [Image Classification Neural Network - Mask Wearing](https://04mscott.github.io/Mask-Detection/)
++ Constructed and trained a Convolutional Neural Network using TensorFlow using a functional approach
+  - Achieved an Test Accuracy of 0.9924 with a loss of 0.0306
+  - Experimented with different hyperparameters and layers within the model
+  - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection/data)
++ Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
 
 ### [C Sorting Algorithms w/ Python Visualization](https://04mscott.github.io/Sorting-Functions-C-/)
