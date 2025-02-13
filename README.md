@@ -35,7 +35,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 + Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
 ### [Housing Price Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
-+ Data analysis of Kaggle Dataset found [HERE](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
++ Data analysis of Kaggle Dataset found [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 + Implemented a linear regression model to predict housing prices
   - Using Python libraries Scikit-learn, Pandas, NumPy, Seaborn
 + Achieved R<sup>2</sup> Score of 0.885 using Random Forest Regressor
