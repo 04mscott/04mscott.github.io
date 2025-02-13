@@ -31,7 +31,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
 + Constructed and trained a Convolutional Neural Network using TensorFlow using a functional approach
   - Achieved a Test Accuracy of 0.9924 with a loss of 0.0306
   - Experimented with different hyperparameters and layers within the model
-  - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection/data)
+  - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://04mscott.github.io/Image-Classification-Mask-Wearing/)
 + Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
 ### [Housing Price Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
