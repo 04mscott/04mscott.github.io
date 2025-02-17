@@ -34,7 +34,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection/data)
 + Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
-### [Housing Price Lineaar Regression Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
+### [Housing Price Linear Regression Prediction Model](https://04mscott.github.io/Housing-Price-Prediction-Model-/)
 + Data analysis of Kaggle Dataset found [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 + Implemented a linear regression model to predict housing prices
   - Using Python libraries Scikit-learn, Pandas, NumPy, Seaborn
@@ -69,7 +69,6 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix
   - Covariance
   - Cross Tabulation
   - Graphing
-+ Code file stored in private GitHub Repo as to not provide answers to future students of the class
   
 ---
 ## Work Experience
