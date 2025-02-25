@@ -27,7 +27,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix, AWS,
 ---
 ## Projects
 
-<img src="assets/imgs/app_nyc.png" class="img-responsive" alt="">
+<img src="assets/img/app_nyc.png" class="img-responsive" alt="">
 
 ### [Air Quality Prediction System (Deployed)](https://04mscott.github.io/Air-Quality-App/)
 + Built and deployed an LSTM-based air quality prediction model using TensorFlow, trained on historical data and real-time updates from the OpenWeatherMap API.
@@ -35,7 +35,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix, AWS,
   + **Web Interface:** Created an interactive Streamlit web app for users to view air quality predictions and trends.
   + **Automated Data Collection:** Integrated real-time API data and set up an automated pipeline for model updates via AWS.
 
-<img src="assets/imgs/incorrect_mask.png" class="img-responsive" alt="">
+<img src="assets/img/incorrect_mask.png" class="img-responsive" alt="">
 
 ### [Face Mask Image Classification Neural Network](https://04mscott.github.io/Face-Mask-Image-Classification/)
 + Constructed and trained a Convolutional Neural Network using TensorFlow using a functional approach
@@ -44,7 +44,7 @@ Packages: TensorFlow, Pandas, Scikit-learn, Matplotlib, Seaborn, Git, Unix, AWS,
   - Constructed training, validation, and testing sets using file io functions using dataset found [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection/data)
 + Implemented a GUI using TaiPy where users can upload an image and the model will make a prediction
 
-<img src="assets/imgs/assets/img/All (10).png" class="img-responsive" alt="">
+<img src="assets/img/All (10).png" class="img-responsive" alt="">
 
 ### [C Sorting Algorithms w/ Python Visualization](https://04mscott.github.io/Sorting-Functions-C-/)
 + Implemented 8 different sorting algorithms in C
